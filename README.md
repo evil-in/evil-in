@@ -19,7 +19,7 @@
 
 **Research Projects**:
 * [Dogs of Bangalore](https://github.com/evil-in/Dogs-of-Bangalore)
-* Analysis of Social Media Residents in Bengaluru
+* Analysis of the Usage and Effects of Social Media among Bengaluru Residents
 
 **Python Projects**
 * [Survival- a script-based RPG](https://github.com/evil-in/Survival)

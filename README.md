@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more about analytics and data science.
 
-You can take a look at my work here:
+#### You can take a look at my work here:
 **Machine Learning**
 * [Employee Attrition](https://github.com/evil-in/employee-attrition)
 * [Car price prediction](https://github.com/evil-in/car-price-prediction)

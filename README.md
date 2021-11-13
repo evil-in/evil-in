@@ -10,6 +10,4 @@
 * **Research Projects**: [Dogs of Bangalore](https://github.com/evil-in/Dogs-of-Bangalore), Analysis of the Usage and Effects of Social Media among Bengaluru Residents
 * **Python Projects**: [Survival- a script-based RPG](https://github.com/evil-in/Survival), [A few small python projects](https://github.com/evil-in/python-projects)
 
-📫 If you'd like chat about anything data science related, you can reach me on: 
-* [LinkedIn](https://www.linkedin.com/in/preethi-evelyn-sadanandan/)
-* [Twitter](https://twitter.com/EvelynPreethi)
+[![LinkedIn](https://github.com/evil-in/evil-in/blob/main/images/linkedin.png)](https://www.linkedin.com/in/preethi-evelyn-sadanandan/)

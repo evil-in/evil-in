@@ -1,4 +1,4 @@
-### Hi, I'm Preethi👋
+### Hello world, I'm Preethi👋
 #### Welcome to my world of programming, data science and data visualization
 
 🌱 I’m currently learning more about analytics and data science.

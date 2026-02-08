@@ -13,3 +13,8 @@
 <p>
   I am also an to open-source contributor to the dbt project.
 </p>
+
+**Communities I am a part of:**
+- Women in Data
+- Tech Risers Women
+- Women Coding Community

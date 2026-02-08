@@ -11,5 +11,5 @@
 - Databricks
 
 <p>
-  I also an to open-source contributor to the dbt project.
+  I am also an to open-source contributor to the dbt project.
 </p>

@@ -9,7 +9,3 @@
 - SQL
 - dbt
 - Databricks
-
-<p>
-  I am also an to open-source contributor to the dbt project.
-</p>

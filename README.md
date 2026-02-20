@@ -9,3 +9,11 @@
 - SQL
 - dbt
 - Databricks
+
+<p>
+I am also an open-source contributor to dbt
+</p>
+
+**Communities that I am part of**:
+- Women in Data
+- Tech Risers Women

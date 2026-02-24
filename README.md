@@ -9,7 +9,3 @@
 - SQL
 - dbt
 - Databricks
-
-**Communities that I am part of**:
-- Women in Data
-- Tech Risers Women
